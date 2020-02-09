@@ -1,11 +1,8 @@
 # Mean-Variance Optimization for Cryptocurrencies
 Applying Markowitz Mean Variance Optimization to obtain optimal allocation for specified cryptocurrencies using a two-week history of hourly prices
 
-## Getting Started
-This assumed you have Python3 installed, built on version 3.7.
-
 ## Installation
-Install all dependencies, as found in `requirements.txt`.
+Runs on Python 3.7. Install all dependencies, as found in `requirements.txt`.
 ```python3 -m pip install -r requirements.txt```
 
 ## Running
